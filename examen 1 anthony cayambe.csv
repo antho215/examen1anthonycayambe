@@ -1,41 +1,41 @@
-Country;GDP per capita (USD);Life satisfaction
-Afghanistan;20.682.659;3.36
-Albania;11.878.454;4.655
-Algeria;11696.95;6.355
-Angola;8.036.411;3.866
-Argentina;23.933.887;6.65
-Armenia;11.321.333;4.36
-Australia;47.569.293;7.313
-Austria;52873.86;7.119
-Azerbaijan;14.852.611;5.291
-Bahrain;48.110.734;6.218
-Bangladesh;37.001.108;4.643
-Belarus;18.362.746;5.802
-Belgium;49456.4;6.929
-Belize;73.586.187;5.956
-Benin;29.459.702;3.484
-Bhutan;10.086.073;5.196
-Bolivia;7.984.412;5.822
-Bosnia and Herzegovina;12.630.667;5.163
-Botswana;14.895.905;3.974
-Brazil;15.064.176;6.952
-Bulgaria;12.015.927;4.217
-Burkina Faso;1.925.332;3.739
-Burundi;8.252.057;2.905
-Cambodia;35.413.767;3.907
-Cameroon;35.704.246;4.513
-Canada;47522.14;7.404
-Chad;18.571.079;3.763
-Chile;24.440.416;6.705
-China;12.612.352;5.245
-Colombia;14.095.748;6.481
-Comoros;2.959.498;3.956
-Congo;52.243.022;4.236
-Costa Rica;19.141.684;7.087
-Cote d'Ivoire;44.171.504;3.916
-Croatia;24.884.666;5.488
-Cyprus;34.453.117;5.546
-Czechia;36.168.418;6.596
-Democratic Republic of Congo;10.652.424;4.272
-Denmark;52.892.645;7.526
-Dominican Republic;15.328.359;5.155
+Country,GDP per capita (USD),Life satisfaction
+Afghanistan,20.682.659,3.36
+Albania,11.878.454,4.655
+Algeria,11696.95,6.355
+Angola,8.036.411,3.866
+Argentina,23.933.887,6.65
+Armenia,11.321.333,4.36
+Australia,47.569.293,7.313
+Austria,52873.86,7.119
+Azerbaijan,14.852.611,5.291
+Bahrain,48.110.734,6.218
+Bangladesh,37.001.108,4.643
+Belarus,18.362.746,5.802
+Belgium,49456.4,6.929
+Belize,73.586.187,5.956
+Benin,29.459.702,3.484
+Bhutan,10.086.073,5.196
+Bolivia,7.984.412,5.822
+Bosnia and Herzegovina,12.630.667,5.163
+Botswana,14.895.905,3.974
+Brazil,15.064.176,6.952
+Bulgaria,12.015.927,4.217
+Burkina Faso,1.925.332,3.739
+Burundi,8.252.057,2.905
+Cambodia,35.413.767,3.907
+Cameroon,35.704.246,4.513
+Canada,47522.14,7.404
+Chad,18.571.079,3.763
+Chile,24.440.416,6.705
+China,12.612.352,5.245
+Colombia,14.095.748,6.481
+Comoros,2.959.498,3.956
+Congo,52.243.022,4.236
+Costa Rica,19.141.684,7.087
+Cote d'Ivoire,44.171.504,3.916
+Croatia,24.884.666,5.488
+Cyprus,34.453.117,5.546
+Czechia,36.168.418,6.596
+Democratic Republic of Congo,10.652.424,4.272
+Denmark,52.892.645,7.526
+Dominican Republic,15.328.359,5.155
